@@ -1,3 +1,0 @@
-# scala-begineer
-practice scala
-
